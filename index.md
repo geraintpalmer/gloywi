@@ -4,4 +4,4 @@ layout: default
 
 ### Gloywi
 
-1. [Arddodiaid](/arddodiaid/)
+1. [Arddodiaid](/gloywi/arddodiaid/)
