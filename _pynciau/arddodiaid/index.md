@@ -101,7 +101,7 @@ Enghreifftiau:
 
 Mae arddodiaid cyfansawdd yn cynnwys mwy nag un gair.
 I ychwanegu person, rhaid gwahanu'r geiriau.
-Mae gwahanol rheolau i ddilyn os yw'r person yn dod **ar ôl** llafariad neu cytsain, ac hefyd os yw'n dod *cyn** llafariad neu cytsain.
+Mae gwahanol rheolau i ddilyn os yw'r person yn dod **ar ôl** llafariad neu cytsain, ac hefyd os yw'n dod **cyn** llafariad neu cytsain.
 
 **Ar ôl cytsain a cyn cytsain:**
 
