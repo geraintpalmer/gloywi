@@ -127,7 +127,7 @@ Dyma rhai graddau cyfartal ansoddeiriau byr:
 | da        | *cystal* â          |
 | drwg      | *cynddrwg* â        |
 | du        | cyn *ddued* â       |
-| eang      | cyn ehanged â       |
+| eang      | cyn *ehanged* â     |
 | gwan      | cyn *wannad* â      |
 | gwyn      | cyn *wynned* â      |
 | oer       | cyn *oered* â       |
