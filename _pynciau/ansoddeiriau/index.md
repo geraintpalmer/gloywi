@@ -51,7 +51,7 @@ Mae gan rhai ansoddeiriau ffurfiau lluosog:
 | estron | estron<u>iaid</u>        |
 | garw   | g<u>ei</u>rw             |
 | glas   | gl<u>ei</u>s<u>ion</u>   |
-| gorau  | goreu<u>on</u>           |
+| gorau  | gor<u>e</u>u<u>on</u>    |
 | gwyn   | gwyn<u>ion</u>           |
 | hir    | hir<u>ion</u>            |
 | ifanc  | if<u>ai</u>nc            |
